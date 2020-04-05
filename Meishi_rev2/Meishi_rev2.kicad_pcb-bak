@@ -395,7 +395,7 @@
   )
 
   (module Meishi_rev2:through_hole (layer F.Cu) (tedit 5E8872EB) (tstamp 5E88CA4B)
-    (at 145.8 92.16)
+    (at 145.4 91.76)
     (path /5E891558)
     (fp_text reference U2 (at 0 0.5) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -408,7 +408,7 @@
   )
 
   (module Meishi_rev2:through_hole (layer F.Cu) (tedit 5E8872EB) (tstamp 5E88CA50)
-    (at 171.8 92.16)
+    (at 171.4 91.76)
     (path /5E892E74)
     (fp_text reference U3 (at 0 0.5) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
